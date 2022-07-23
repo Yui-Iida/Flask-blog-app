@@ -1,1 +1,1 @@
-echo Python-3.10.5
+echo python-3.10.5
